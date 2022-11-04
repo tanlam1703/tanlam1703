@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <div id="gif">
+      <!-- UPDATE-GIF:START -->
+      <!-- UPDATE-GIF:END -->
       <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
   </div>
   <div id="view_count">
